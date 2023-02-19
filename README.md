@@ -42,9 +42,11 @@ The most commonly used commands for working with git
 13. #git checkout [name branch]
 Команда позволяет переключиться на указанную ветку в [name branch]
 
-14. #git pull [per_link] [branch-name]
+14. #git checkout -b [name branch]
+Команда позволяющая создать и переключиться на новую ветку.
+
+15. #git pull [per_link] [branch-name]
 Команда позволяющая загрузить все изменения из удаленного репозитория в локальный
 
-15. #git merge [name branch]
+16. #git merge [name branch]
 Команда позволяющая переместить код из одной ветки в другую, для этого нужно переключиться на ветку в которую нужно переместить код, а затем с помощью команды указать из какой ветки нужно загрузить код.
-
