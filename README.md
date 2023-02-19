@@ -1,7 +1,7 @@
 # test-git
 this is test repository for git
 
-# git status
+#git status
 Проверка проекта на изменения в файлах
 
 #git add . 
